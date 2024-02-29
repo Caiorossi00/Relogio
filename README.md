@@ -1,6 +1,7 @@
 <h1>Relógio Virtual</h1>
 
 Este projeto consiste na implementação de um relógio analógico utilizando HTML, CSS e JavaScript. A aplicação exibe ponteiros para horas, minutos e segundos, os quais são dinamicamente atualizados em tempo real por meio da manipulação do DOM e da aplicação de estilos utilizando JavaScript.
+Este é o segundo desafio do projeto #Javascript30, do Wes Bos.
 
 Destaques e Aprendizados: <br>
 <ol>
